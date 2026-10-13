@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando Cliente IMC LipeRMI...
+java -cp "cliente\build\classes;cliente\lib\lipermi-1.0.1.jar;cliente\lib\EjemploLipeRmiLibImc.jar" johnarrieta.seminario.imc.rmi.Principal
